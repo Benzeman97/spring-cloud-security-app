@@ -1,0 +1,8 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: spring-cloud-oauth2-app
+  profiles:
+    active: dev
